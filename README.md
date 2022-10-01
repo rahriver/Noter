@@ -10,8 +10,8 @@
 ![Preview](https://user-images.githubusercontent.com/89016694/193405492-5e96b0fd-53ca-4c21-9173-e1f33a658810.png)
 
 # Dependencies
-- (https://github.com/sharkdp/bat)[bat]
-- (https://github.com/junegunn/fzf)[fzf]
+- [fzf](https://github.com/junegunn/fzf)
+- [bat](https://github.com/sharkdp/bat)
 
 # Installation
 **Linux**
