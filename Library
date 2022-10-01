@@ -12,7 +12,7 @@ Basic() {
 
     notify-send "Basic Document Created!"
     cd $NOTES_DIR
-    cp $NOTES_DIRTemplates/SimpleNote.md $NOTE_DIR/"$note_name.md"
+    cp $NOTES_DIR/Templates/SimpleNote.md $NOTE_DIR/"$note_name.md"
     nvim $NOTES_DIR"$note_name.md"
 }
 
@@ -20,8 +20,8 @@ LaTeX() {
 
     notify-send "LaTeX Document Created!"
     cd $NOTES_DIR
-    cp $NOTES_DIRTemplates/LaTeX.tex $NOTE_DIR/"$note_name.tex"
-    nvim $NOTES_DIR"$note_name"/"$note_name.tex"
+    cp $NOTES_DIR/Templates/LaTeX.tex $NOTE_DIR/"$note_name.tex"
+    nvim $NOTES_DIR/"$note_name"/"$note_name.tex"
 }
 
 Presentation() {
@@ -29,7 +29,7 @@ Presentation() {
     notify-send "Beamer Presentation Created!"
     cd $NOTES_DIR
     cp $NOTES_DIR/Templates/Presentation.tex $NOTE_DIR/"$note_name.tex"
-    nvim $NOTES_DIR"$note_name"/"$note_name.tex"
+    nvim $NOTES_DIR/"$note_name"/"$note_name.tex"
 }
 
 RMark() {
@@ -37,7 +37,7 @@ RMark() {
     notify-send "R Markdown Document Created!"
     cd $NOTES_DIR
     cp $NOTES_DIR/Templates/RMarkdown.rmd $NOTE_DIR/"$note_name.rmd"
-    nvim $NOTES_DIR"$note_name"/"$note_name.rmd"
+    nvim $NOTES_DIR/"$note_name"/"$note_name.rmd"
 }
 
 template() {
