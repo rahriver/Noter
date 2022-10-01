@@ -1,16 +1,7 @@
 ---
-tags: #🗒️
-publish: true
-aliases:
-type: note
+title: Title
+date: \today
+author: Author
 ---
-## Metadata
-- `Tags:` #🗒️
-- `Status:` #🟥️
-- `Topic:` 
----
-## 📖 References
-
----
-## 🗒️ Notes
+# TITLE
 

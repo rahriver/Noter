@@ -21,7 +21,7 @@ header-includes:
 \setmainfont{Source Code Pro}
 
 \title{\textbf{{\color{Blue}TITLE}}}
-\author{\textit{Ramin Yousefpour}}
+\author{\textit{}}
 \date{}
 
 \thispagestyle{empty}
