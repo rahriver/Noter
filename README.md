@@ -3,6 +3,12 @@
 
 ![Preview](https://user-images.githubusercontent.com/89016694/193405492-5e96b0fd-53ca-4c21-9173-e1f33a658810.png)
 
+<p align="center">
+<img src="https://img.shields.io/github/commit-activity/m/rahriver/Noter">
+<a href="https://github.com/rahriver/Noter/graphs/contributors"><img src="https://img.shields.io/github/contributors/rahriver/Noter"></a>
+<img src="https://img.shields.io/github/v/release/rahriver/Noter">
+</p>
+
 # Dependencies
 - bat
 - fzf
