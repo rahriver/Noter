@@ -8,7 +8,8 @@
 # Noter: Library For Your Notes!
 > This script gives you the ability to handle notes in the command-line.
 
-![Preview](https://user-images.githubusercontent.com/89016694/193405492-5e96b0fd-53ca-4c21-9173-e1f33a658810.png)
+![View](https://user-images.githubusercontent.com/89016694/193408150-3e542e79-5422-45af-9838-38c842ee3004.png)
+![Options](https://user-images.githubusercontent.com/89016694/193408205-0091466e-e171-43d3-9547-f73177ee2257.png)
 
 # Dependencies
 - [fzf](https://github.com/junegunn/fzf)
