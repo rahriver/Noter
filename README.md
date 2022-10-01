@@ -1,11 +1,19 @@
+<p align="center">
+<a href="https://github.com/rahriver/Noter/master/LICENSE"><img src="https://img.shields.io/static/v1.svg?style=flat&label=License&message=MIT&logoColor=eceff4&logo=github&colorA=black&colorB=green"/></a>
+<img src="https://img.shields.io/github/commit-activity/m/rahriver/Noter">
+<a href="https://github.com/rahriver/Noter/graphs/contributors"><img src="https://img.shields.io/github/contributors/rahriver/Noter"></a>
+<img src="https://img.shields.io/github/v/release/rahriver/Noter">
+</p>
+
 # Noter: Library For Your Notes!
 > This script gives you the ability to handle notes in the command-line.
 
-![Preview](https://user-images.githubusercontent.com/89016694/193405492-5e96b0fd-53ca-4c21-9173-e1f33a658810.png)
+![View](https://user-images.githubusercontent.com/89016694/193408150-3e542e79-5422-45af-9838-38c842ee3004.png)
+![Options](https://user-images.githubusercontent.com/89016694/193408205-0091466e-e171-43d3-9547-f73177ee2257.png)
 
 # Dependencies
-- bat
-- fzf
+- [fzf](https://github.com/junegunn/fzf)
+- [bat](https://github.com/sharkdp/bat)
 
 # Installation
 **Linux**
