@@ -1,3 +1,5 @@
+![Logo](https://user-images.githubusercontent.com/89016694/193409622-6c8cf774-0980-4497-93f7-5cf2ee1334ec.png)
+
 <p align="center">
 <a href="https://github.com/rahriver/Noter/master/LICENSE"><img src="https://img.shields.io/static/v1.svg?style=flat&label=License&message=MIT&logoColor=eceff4&logo=github&colorA=black&colorB=green"/></a>
 <img src="https://img.shields.io/github/commit-activity/m/rahriver/Noter">
