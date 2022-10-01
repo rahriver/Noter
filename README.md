@@ -12,15 +12,15 @@
 
 ![View](https://user-images.githubusercontent.com/89016694/193408150-3e542e79-5422-45af-9838-38c842ee3004.png)
 
-# Dependencies
+## Dependencies
 - [fzf](https://github.com/junegunn/fzf)
 - [bat](https://github.com/sharkdp/bat)
 
-# Installation
+## Installation
 **Linux**
 Move the Library script to your `~/.local/bin` folder or anywhere that's in your `$PATH`.
 
-# Usage
+## Usage
 The template folder is consist of 4 templates for:
 - **Basic** Markdown Note
 - **LaTeX** Template (Should Be Compiled With XeLaTeX)
@@ -39,5 +39,5 @@ When you run the script, it gives you these options:
 - Delete a note (Using FZF To Select)
 - Exit
 
-# Support
+## Support
 > Give this repository a star and share it with your friends!
