@@ -1,4 +1,5 @@
 <p align="center">
+<a href="https://github.com/rahriver/Noter/master/LICENSE"><img src="https://img.shields.io/static/v1.svg?style=flat&label=License&message=MIT&logoColor=eceff4&logo=github&colorA=black&colorB=green"/></a>
 <img src="https://img.shields.io/github/commit-activity/m/rahriver/Noter">
 <a href="https://github.com/rahriver/Noter/graphs/contributors"><img src="https://img.shields.io/github/contributors/rahriver/Noter"></a>
 <img src="https://img.shields.io/github/v/release/rahriver/Noter">
