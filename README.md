@@ -13,11 +13,12 @@
 ![View](https://user-images.githubusercontent.com/89016694/193408150-3e542e79-5422-45af-9838-38c842ee3004.png)
 
 ## Dependencies
+Install these programs before running the script:
 - [fzf](https://github.com/junegunn/fzf)
 - [bat](https://github.com/sharkdp/bat)
 
 ## Installation
-**Linux**
+### Linux
 Move the Library script to your `~/.local/bin` folder or anywhere that's in your `$PATH`.
 
 ## Usage
