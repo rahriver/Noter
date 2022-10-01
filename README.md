@@ -8,17 +8,20 @@
 - fzf
 
 # Installation
----
-## Linux
+**Linux**
 Move the Library script to your `~/.local/bin` folder or anywhere that's in your `$PATH`.
 
 # Usage
----
 The template folder is consist of 4 templates for:
-- Basic Markdown Note
-- LaTeX Template (Should Be Compiled With XeLaTeX)
-- R Markdown (For Data Science & Programming Notes)
-- Presentation (With Beamer)
+- **Basic** Markdown Note
+- **LaTeX** Template (Should Be Compiled With XeLaTeX)
+- **R Markdown** (For Data Science & Programming Notes)
+- **Presentation** (With Beamer)
+
+You should change these options for your own use:
+- **EXTENSION**: (Your suitable note extension)
+- **NOTES_DIR**: (Your note directory)
+- **EDITOR**: (Your prefered text editor to open notes)
 
 When you run the script, it gives you these options:
 - Create a new note
