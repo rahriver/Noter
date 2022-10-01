@@ -11,7 +11,6 @@
 > This script gives you the ability to handle notes in the command-line.
 
 ![View](https://user-images.githubusercontent.com/89016694/193408150-3e542e79-5422-45af-9838-38c842ee3004.png)
-![Options](https://user-images.githubusercontent.com/89016694/193408205-0091466e-e171-43d3-9547-f73177ee2257.png)
 
 # Dependencies
 - [fzf](https://github.com/junegunn/fzf)
@@ -39,3 +38,6 @@ When you run the script, it gives you these options:
 - View a note (Using FZF, Preview With BAT)
 - Delete a note (Using FZF To Select)
 - Exit
+
+# Support
+> Give this repository a star and share it with your friends!
