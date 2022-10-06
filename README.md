@@ -40,7 +40,8 @@ When you run the script, it gives you these options:
 - Exit
 
 To invoke just the View Note option, you can pass the `view` argument when running the script:
+
 `noter view`
 
 ## Support
-> Give this repository a star and share it with your friends!
+> Give this repository a star and share it with someone who cares about these stuff :O
