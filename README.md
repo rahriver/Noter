@@ -1,5 +1,4 @@
 ![Logo](https://user-images.githubusercontent.com/89016694/193409622-6c8cf774-0980-4497-93f7-5cf2ee1334ec.png)
-
 <p align="center">
 <a href="https://github.com/rahriver/Noter/master/LICENSE"><img src="https://img.shields.io/static/v1.svg?style=flat&label=License&message=MIT&logoColor=eceff4&logo=github&colorA=black&colorB=green"/></a>
 <img src="https://img.shields.io/github/commit-activity/m/rahriver/Noter">
@@ -31,7 +30,7 @@ The template folder is consist of 4 templates for:
 You should change these options for your own use:
 - **EXTENSION**: (Your suitable note extension)
 - **NOTES_DIR**: (Your note directory)
-- **EDITOR**: (Your prefered text editor to open notes)
+- **EDITOR**: (Your preferred text editor to open notes)
 
 When you run the script, it gives you these options:
 - Create a new note
@@ -39,6 +38,9 @@ When you run the script, it gives you these options:
 - View a note (Using FZF, Preview With BAT)
 - Delete a note (Using FZF To Select)
 - Exit
+
+To invoke just the View Note option, you can pass the `view` argument when running the script:
+`noter view`
 
 ## Support
 > Give this repository a star and share it with your friends!
