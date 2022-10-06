@@ -1,7 +1,7 @@
 #!/bin/sh
 
 # Set the directory where the notes are stored
-NOTES_DIR="$HOME/Documents/Notes"
+NOTES_DIR="/home/core/Documents/Notes"
 # Set the editor to use
 EDITOR="nvim"
 # Set the file extension for the notes
@@ -12,32 +12,32 @@ Basic() {
 
     notify-send "Basic Document Created!"
     cd $NOTES_DIR
-    cp $NOTES_DIR/Templates/SimpleNote.md $NOTE_DIR/"$note_name.md"
-    nvim $NOTES_DIR"$note_name.md"
+    cp $NOTES_DIR/Templates/SimpleNote.md $NOTES_DIR/"$note_name.md"
+    nvim $NOTES_DIR/"$note_name.md"
 }
 
 LaTeX() {
 
     notify-send "LaTeX Document Created!"
     cd $NOTES_DIR
-    cp $NOTES_DIR/Templates/LaTeX.tex $NOTE_DIR/"$note_name.tex"
-    nvim $NOTES_DIR/"$note_name"/"$note_name.tex"
+    cp $NOTES_DIR/Templates/LaTeX.tex $NOTES_DIR/"$note_name.tex"
+    nvim $NOTES_DIR/"$note_name.tex"
 }
 
 Presentation() {
 
     notify-send "Beamer Presentation Created!"
     cd $NOTES_DIR
-    cp $NOTES_DIR/Templates/Presentation.tex $NOTE_DIR/"$note_name.tex"
-    nvim $NOTES_DIR/"$note_name"/"$note_name.tex"
+    cp $NOTES_DIR/Templates/Presentation.tex $NOTES_DIR/"$note_name.tex"
+    nvim $NOTES_DIR/"$note_name.tex"
 }
 
 RMark() {
 
     notify-send "R Markdown Document Created!"
     cd $NOTES_DIR
-    cp $NOTES_DIR/Templates/RMarkdown.rmd $NOTE_DIR/"$note_name.rmd"
-    nvim $NOTES_DIR/"$note_name"/"$note_name.rmd"
+    cp $NOTES_DIR/Templates/RMarkdown.rmd $NOTES_DIR/"$note_name.rmd"
+    nvim $NOTES_DIR/"$note_name.rmd"
 }
 
 template() {
@@ -128,4 +128,8 @@ main() {
     fi
 }
 
-main
+if [ "$1" = "view" ]; then
+    view_note
+else
+    main
+fi
