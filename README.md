@@ -7,9 +7,9 @@
 </p>
 
 # Noter: Library For Your Notes!
-> This script gives you the ability to handle notes in the command-line.
+> Manager notes in the command-line.
 
-![View](https://user-images.githubusercontent.com/89016694/193408150-3e542e79-5422-45af-9838-38c842ee3004.png)
+![image](https://user-images.githubusercontent.com/89016694/194278194-3255fa5a-0d9d-4f88-aecf-401b9c838552.png)
 
 ## Dependencies
 Install these programs before running the script:
